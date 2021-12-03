@@ -15,6 +15,7 @@ inference speed.
 
 ## Experiments
 
+![hyperparam_tuning](https://user-images.githubusercontent.com/20869671/144581821-d27e8f82-c5fe-41ed-b826-8c779ea76335.png)
 ![quantitative_comparison](https://user-images.githubusercontent.com/20869671/144581200-e3b561be-871d-440a-a529-8d4344cd5872.png)
 
 ## Results
